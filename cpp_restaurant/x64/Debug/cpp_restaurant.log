@@ -1,0 +1,47 @@
+﻿  AccountantWindow.cpp
+  AdminWindow.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(148,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(337,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(55,134): warning C4101: isCheckingActivity: неиспользованная локальная переменная
+  Authorization.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(130,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(24,14): warning C4101: fileLogic: неиспользованная локальная переменная
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(148,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(337,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(55,134): warning C4101: isCheckingActivity: неиспользованная локальная переменная
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(61,28): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,77): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\SupplierWindow.cpp(37,27): warning C4101: count: неиспользованная локальная переменная
+  ChefWindow.cpp
+  FileLogic.h
+  GuestWindow.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(130,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(24,14): warning C4101: fileLogic: неиспользованная локальная переменная
+  OfficiantWindow.cpp
+  SetDefaultValues.cpp
+  Source.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(130,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\GuestWindow.cpp(24,14): warning C4101: fileLogic: неиспользованная локальная переменная
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(148,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(337,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\AdminWindow.cpp(55,134): warning C4101: isCheckingActivity: неиспользованная локальная переменная
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(61,28): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,77): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\SupplierWindow.cpp(37,27): warning C4101: count: неиспользованная локальная переменная
+  StorageWindow.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(61,28): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,77): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\StorageWindow.cpp(67,1): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  SupplierWindow.cpp
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\SupplierWindow.cpp(37,27): warning C4101: count: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(230): warning C4715: GetValues::getUsers: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(59): warning C4715: GetValues::getIngridients: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(272): warning C4715: GetValues::getAccounting: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(363): warning C4715: GetValues::getApplications: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(189): warning C4715: GetValues::getOrders: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(127): warning C4715: GetValues::getDishes: значение возвращается не при всех путях выполнения
+C:\Users\kiruk\source\repos\cpp_restaurant\cpp_restaurant\FileActions.h(310): warning C4715: GetValues::getActivities: значение возвращается не при всех путях выполнения
+  cpp_restaurant.vcxproj -> C:\Users\kiruk\source\repos\cpp_restaurant\x64\Debug\cpp_restaurant.exe
